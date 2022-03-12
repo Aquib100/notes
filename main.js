@@ -1,6 +1,6 @@
 var b = document.body;
 var script = document.createElement('script');
-script.src = "https://raw.githubusercontent.com/Aquib100/notes/main/script.js";
+script.src = 'https://raw.githubusercontent.com/Aquib100/notes/main/script.js';
 b.appendChild(script);
 
 
